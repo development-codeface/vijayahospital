@@ -79,24 +79,24 @@
                             <div class="content margin-ten-top">
                                 
                                 <h3 class="title padding-ten-lr">
-                                   Dhanammal P. K
+                                 COL T P Baby (Retd)
                                 </h3>  <ul class="post-meta doc padding-bottom-41" >
                                     
-                                    <li>Nursing administrative officer</li>
+                                    <li>Nursing Administrative Officer</li>
                                 </ul>                              
                                
                            
                             </div>
                         </div> </div>  
                
-           
-                 
 
-               
 
                                                            
                 </div>
             </div>
+
+
+
 
      <div class="container">
                 <div class="row">
@@ -198,7 +198,24 @@
                         </div> </div> 
            
            
-
+<div class="col-md-4 margin-five-top"> 
+                    <div class="blog-post-single-item bg_gray border-radius-10 margin-res-40px">
+                            <div class="thumb text-center doc_imgbox">
+                                <img class="width-100" src="<?=asset_path_web()?>/img/about/t77.jpg">
+                            </div>
+                            <div class="content margin-ten-top">
+                                
+                                <h3 class="title padding-ten-lr">
+                                    Mathew Thomas  Edakunnil 
+                                </h3>  <ul class="post-meta doc padding-bottom-41" >
+                                    
+                                    <li>Eye Center Unit Head</li>
+                                </ul>                              
+                               
+                           
+                            </div>
+                        </div> </div> 
+           
                             
                 </div>
             </div>
@@ -212,8 +229,29 @@
           </div></div>
             <div class="container margin-50px-top">
                 <div class="row ">
+                    
+                    
+                    
+                     <div class="col-md-4"> 
+                    <div class="blog-post-single-item bg_gray border-radius-10 margin-res-40px">
+                            <div class="thumb text-center doc_imgbox">
+                                <img class="width-100" src="<?=asset_path_web()?>/img/about/t6a.jpg">
+                            </div>
+                            <div class="content margin-ten-top">
+                                
+                                <h3 class="title padding-ten-lr">
+                                 Daniel P K
+                                </h3>  <ul class="post-meta doc padding-bottom-41" >
+                                    
+                                    <li>Accounts officer</li>
+                                </ul>                              
+                               
+                           
+                            </div>
+                        </div> </div> 
   
-   <div class="col-md-4"> 
+ 
+ <div class="col-md-4 "> 
                     <div class="blog-post-single-item bg_gray border-radius-10 margin-res-40px">
                             <div class="thumb text-center doc_imgbox">
                                 <img class="width-100" src="<?=asset_path_web()?>/img/about/t6.jpg">
@@ -221,7 +259,7 @@
                             <div class="content margin-ten-top">
                                 
                                 <h3 class="title padding-ten-lr">
-                                  Sasikala 
+                                   Sasikala
                                 </h3>  <ul class="post-meta doc padding-bottom-41" >
                                     
                                     <li>Internal Auditor</li>
@@ -229,9 +267,10 @@
                                
                            
                             </div>
-                        </div> </div>                 
-           
- <div class="col-md-4 "> 
+                        </div> </div>            
+
+                           
+             <div class="col-md-4"> 
                     <div class="blog-post-single-item bg_gray border-radius-10 margin-res-40px">
                             <div class="thumb text-center doc_imgbox">
                                 <img class="width-100" src="<?=asset_path_web()?>/img/about/t22.jpg">
@@ -239,7 +278,7 @@
                             <div class="content margin-ten-top">
                                 
                                 <h3 class="title padding-ten-lr">
-                                   Priji
+                                 Priji
                                 </h3>  <ul class="post-meta doc padding-bottom-41" >
                                     
                                     <li>Biomedical Incharge</li>
@@ -247,16 +286,113 @@
                                
                            
                             </div>
-                        </div> </div>            
-
-                            
-                </div>
-            </div>         
+                        </div> </div>                       
+                       
+                       
+                       
+       
+                        <div class="col-md-4 margin-five-top"> 
+                    <div class="blog-post-single-item bg_gray border-radius-10 margin-res-40px">
+                            <div class="thumb text-center doc_imgbox">
+                                <img class="width-100" src="<?=asset_path_web()?>/img/about/t61.jpg">
+                            </div>
+                            <div class="content margin-ten-top">
+                                
+                                <h3 class="title padding-ten-lr">
+                                   Seeniya John
+                                </h3>  <ul class="post-meta doc padding-bottom-41" >
+                                    
+                                    <li>HR Executive</li>
+                                </ul>                              
+                               
+                           
+                            </div>
+                        </div> </div>  
+                
+      
+       
+       <div class="container">
+                <div class="row">
+        <div class="col-lg-12">
+                 <div class="common-title padding-bottom-40 margin-ten-top pad-resp-0">
+                            <h2 class="heading line-left"style="display: block;">Marketing Dept.</h2>
+                        </div>
+              </div>
+          </div></div>
+            <div class="container margin-50px-top">
+                <div class="row ">
+  
+   <div class="col-md-4"> 
+                    <div class="blog-post-single-item bg_gray border-radius-10 margin-res-40px">
+                            <div class="thumb text-center doc_imgbox">
+                                <img class="width-100" src="<?=asset_path_web()?>/img/about/t611.jpg">
+                            </div>
+                            <div class="content margin-ten-top">
+                                
+                                <h3 class="title padding-ten-lr">
+                                 Nabeel Nazar  
+                                </h3>  <ul class="post-meta doc padding-bottom-41" >
+                                    
+                                    <li>Marketing Incharge</li>
+                                </ul>                              
+                               
+                           
+                            </div>
+                        </div> </div>     
+        
+        
+        
+        
+        
+        
+        
+          
+       
+       <div class="container">
+                <div class="row">
+        <div class="col-lg-12">
+                 <div class="common-title padding-bottom-40 margin-ten-top pad-resp-0">
+                            <h2 class="heading line-left"style="display: block;">Management Information system</h2>
+                        </div>
+              </div>
+          </div></div>
+            <div class="container margin-50px-top">
+                <div class="row ">
+  
+   <div class="col-md-4"> 
+                    <div class="blog-post-single-item bg_gray border-radius-10 margin-res-40px">
+                            <div class="thumb text-center doc_imgbox">
+                                <img class="width-100" src="<?=asset_path_web()?>/img/about/t612.jpg">
+                            </div>
+                            <div class="content margin-ten-top">
+                                
+                                <h3 class="title padding-ten-lr">
+                                 James Abraham
+                                </h3>  <ul class="post-meta doc padding-bottom-41" >
+                                    
+                                    <li>MIS Incharge</li>
+                                </ul>                              
+                               
+                           
+                            </div>
+                        </div> </div>     
+        
+        
+        
+        
+        
+        
+        
+            
+            
+            
+            
+            
              <div class="container">
                 <div class="row">
         <div class="col-lg-12">
                  <div class="common-title padding-bottom-40 margin-ten-top pad-resp-0">
-                            <h2 class="heading line-left"style="display: block;">Nursing superintendent/Nursing Team leaders</h2>
+                            <h2 class="heading line-left"style="display: block;">Nursing Superintendent/Nursing Team leaders</h2>
                         </div>
               </div>
                         <div class="container margin-50px-top">
@@ -433,7 +569,7 @@
                                     Vigi
                                 </h3>  <ul class="post-meta doc padding-bottom-41" >
                                     
-                                    <li> Cath Lab nursing incharge  </li>
+                                    <li> Cath Lab Nursing Incharge  </li>
                                 </ul>                              
                                
                            
@@ -593,12 +729,45 @@
                            
                             </div>
                         </div> </div>          
-
+<div class="col-md-4 "> 
+                    <div class="blog-post-single-item bg_gray border-radius-10 margin-res-40px">
+                            <div class="thumb text-center doc_imgbox">
+                                <img class="width-100" src="<?=asset_path_web()?>/img/about/t181.jpg">
+                            </div>
+                            <div class="content margin-ten-top">
+                                
+                                <h3 class="title padding-ten-lr">
+                                    Dharshana
+                                </h3>  <ul class="post-meta doc padding-bottom-41" >
+                                    
+                                    <li>Guest Relation Executive (GRE)</li>
+                                </ul>                              
+                               
+                           
+                            </div>
+                        </div> </div> 
                             
                 </div>
             </div>    
 
-
+     
+                        <div class="col-md-4 margin-five-top"> 
+                    <div class="blog-post-single-item bg_gray border-radius-10 margin-res-40px">
+                            <div class="thumb text-center doc_imgbox">
+                                <img class="width-100" src="<?=asset_path_web()?>/img/about/t6222.jpg">
+                            </div>
+                            <div class="content margin-ten-top">
+                                
+                                <h3 class="title padding-ten-lr">
+                                   Adarsh V S
+                                </h3>  <ul class="post-meta doc padding-bottom-41" >
+                                    
+                                    <li>Guest Relation Executive</li>
+                                </ul>                              
+                               
+                           
+                            </div>
+                        </div> </div>  
 
 
      <div class="container">
@@ -659,7 +828,7 @@
                 <div class="row">
         <div class="col-lg-12">
                  <div class="common-title padding-bottom-40 margin-ten-top pad-resp-0">
-                            <h2 class="heading line-left"style="display: block;">Cath lab</h2>
+                            <h2 class="heading line-left"style="display: block;">Cath Lab</h2>
                         </div>
               </div>
           </div></div>
@@ -678,7 +847,7 @@
                                   Jeena
                                 </h3>  <ul class="post-meta doc padding-bottom-41" >
                                     
-                                    <li>Cath lab Incharge </li>
+                                    <li>Cath Lab Incharge </li>
                                 </ul>                              
                                
                            
@@ -697,7 +866,7 @@
                 <div class="row">
         <div class="col-lg-12">
                  <div class="common-title padding-bottom-40 margin-ten-top pad-resp-0">
-                            <h2 class="heading line-left"style="display: block;">lab</h2>
+                            <h2 class="heading line-left"style="display: block;">Lab</h2>
                         </div>
               </div>
           </div></div>
