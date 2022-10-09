@@ -1,0 +1,91 @@
+.mt-widget-2 .mt-body .mt-body-title {margin-top: 25px;}
+.mt-element-overlay .mt-overlay-1 {height: 200px!important;}
+.mt-element-overlay .mt-overlay-1 img {height: 200px;object-fit: cover;}
+.mt-card-desc button {margin:5px 5px 5px 0;}
+
+.custom_modal .modal-custom-header .close {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    color: #000;
+    background-color: transparent;
+    border-color: transparent;
+}
+.custom_modal .modal-custom-header .close:hover {
+    color: #000;
+    background-color: transparent;
+    border-color: transparent;
+}
+.custom_modal .modal-content {
+    border-radius: 0;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
+.custom_modal .modal-custom-header .modal-title {
+    font-size: 16px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+.custom_modal .modal-custom-header .modalsub-title {
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+.custom_modal .modal-custom-header .pro-title {
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #ed2c41;
+}
+.nutri_info {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.nutri_info li:first-child,
+.nutri_info li:last-child  {
+	font-weight: 600;    
+	margin-bottom: 0.67em;
+    color: #522776;
+}
+.nutri_info li:last-child {
+	margin-top: 0.87em;
+}
+.nutri_info li {
+	position: relative;    
+	margin-bottom: 0.4em;
+}
+.nutri_info li span {
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 60px;
+}
+.nutri_note p {
+	margin-bottom: 0;
+}
+.custom_modal .modal-custom-header {
+    padding: 1rem;
+    text-align: center;
+    border-bottom-color: transparent;
+}
+.custom_modal .modal-footer {
+    border-top-color: transparent;
+}
+.custom_modal .row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;	
+}
+.page-sidebar .page-sidebar-menu>li>a>i[class*=icon-], .page-sidebar .page-sidebar-menu>li>a>i[class^=icon-], .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li>a>i[class*=icon-], .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li>a>i[class^=icon-]{
+    color:#fff !important;
+}
+
+.page-sidebar .page-sidebar-menu>li.active.open>a, .page-sidebar .page-sidebar-menu>li.active>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li.active.open>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li.active>a{
+    background:#212d41;
+}

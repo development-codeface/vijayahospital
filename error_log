@@ -1,0 +1,2 @@
+[24-Feb-2021 12:57:10 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/vijayahospital/public_html/system/database/DB_query_builder.php on line 2317
+[24-May-2021 22:16:25 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/vijayahospital/public_html/system/database/DB_query_builder.php on line 2317

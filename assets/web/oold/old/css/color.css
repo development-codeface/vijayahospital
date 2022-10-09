@@ -1,0 +1,258 @@
+/*
+      ============================================================
+           Default Color Start
+      ============================================================
+*/
+.th-cl,
+.btn.th-cl,
+.white-bg.btn,
+.btn.border.th-bdr,
+.th-cl.readmore-btn,
+.blog-nav .pager li > a,
+.port-filter li a:hover,
+.port-filter li a.active,
+.copy-right.th-bg .social-list li a:hover,
+.widget-recent-blog .title a:hover,
+.widget_categories ul li:hover > *,
+.widget-recent-blog:hover .title
+{
+  color: #2d2d6b !important
+}
+/*
+      ============================================================
+           Default Background Color Start
+      ============================================================
+*/
+.th-bg,
+blockquote,
+.btn.th-bg,
+.slick-arrow,
+.video-btn:after,
+.video-btn:before,
+.svg-icon.th-bg,
+.navbar-toggle .icon-bar,
+.btn.border.th-bdr:hover,
+.th-cl.readmore-btn::before,
+.blog-thumb figure::before,
+.osr-srvices-thumb-1:hover,
+.slick-dots li.slick-active button,
+.oscar-header-1 .navbar  li,
+.testimonial-slider .slick-arrow:hover,
+.port-filter li a.active::before,
+.port-filter li a:hover::before,
+.port-filter li a.active::after,
+.port-filter li a:hover::after,
+
+/*Timan Start*/
+.tags a:hover,
+.btn:hover,
+.btn.th-bg2:hover,
+.portfolio-thumb::after,
+.th-bg .counter-list::before,
+.gsc-results .gsc-cursor-box .gsc-cursor-page.gsc-cursor-current-page,
+.gsc-results .gsc-cursor-box .gsc-cursor-page:hover,
+.osr-pagination .page-numbers.current,
+.osr-pagination .page-numbers:hover,
+.team-detail-thumb .social-list li a.th-bg2:hover
+{
+    background-color: #2d2d6b  !important
+}
+/*
+      ============================================================
+           Default Border Color Start
+      ============================================================
+*/
+.th-bdr,
+.btn.th-bg,
+.btn:hover,
+blockquote,
+.osr-team-thumb-1 .btn,
+.blog-nav .pager li > a,
+.simple-box-2:hover,
+/*Timan Start*/
+.tags a:hover,
+.btn.th-bg2:hover,
+.gsc-results .gsc-cursor-box .gsc-cursor-page.gsc-cursor-current-page,
+.gsc-results .gsc-cursor-box .gsc-cursor-page:hover,
+.osr-pagination .page-numbers.current,
+.team-detail-thumb .social-list li a.th-bg2:hover,
+.osr-pagination .page-numbers:hover{
+    border-color: #2d2d6b !important
+}
+
+.btn{
+  --box-shadow-color: #2d2d6b;
+}
+
+/*
+      ============================================================
+           Default Transition Start
+      ============================================================
+*/
+a,
+label,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+input,
+.btn,
+.blog,
+figure,
+.title,
+.tags a,
+.title a,
+textarea,
+.popup-icon,
+.slick-arrow,
+.navigation a,
+.social-list li a,
+.osr-srvices-thumb-1,
+.form-control,
+/*Timan Start*/
+.popup-icon,
+.osr-srvices-thumb-2,
+.osr-srvices-thumb-2 *,
+.portfolio-thumb::after
+{
+  transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+}
+/*
+      ============================================================
+           Second Background Color Start
+      ============================================================
+*/
+
+.gray-bg{
+    background-color:#f7fbff/* #ebebea */;
+}
+
+{
+  border-color:#f7fbff/* #ebebea */;
+}
+
+.thinn-event-thumb figure,
+.thinn-event-list figure,
+.th-gradient{
+  background: -webkit-linear-gradient(45deg, #ff89e9 0%, #2d2d6b 100%);
+  background: linear-gradient(45deg, #ff89e9 0%,#2d2d6b 100%);
+}
+/*
+      ============================================================
+           Social Icons Background Color Start
+      ============================================================
+*/
+.google-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #f0042a;
+}
+.twitter-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #55acee;	
+}
+.linkedin-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #00598e;	
+}
+.facebook-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #3b5998;	
+}
+.price-tag.red {
+    background: #ff0000;
+}
+.red{
+  background: #ff6363 !important;
+}
+.red-cl{
+  color: #ff6363;
+}
+
+.green{
+  background: #04ee7d !important;
+}
+
+.blue{
+  background: #04baee !important;
+}
+
+.yellow{
+  background: #ffd908 !important;
+}
+/*
+      ============================================================
+        Color 2 Strat
+      ============================================================
+*/
+.team-thumb:hover .title ,
+.counter-list::before,
+.blog-meta li:hover,
+.oscar-header-2 .navigation li:hover > a,
+.th-bg.top-bar li a:hover,
+.services-tab-nav li.active a i,
+.widget_categories ul li:hover, .widget_nav_menu ul li a:hover,
+.th-cl2{
+  color: #634eca !important;
+}
+.th-bg.top-bar .short-nav li a::before,
+.btn.th-bg2,
+.search-icon a,
+.search-tab-nav li.active a,
+.search-tab-nav li:hover a,
+.header-3 .navigation li:hover > a,
+.header-3 .navigation li.active > a,
+.destination-tabs .tab-nav a:hover,
+.destination-tabs .tab-nav li.active a,
+.header-3 .navigation .children li:hover a,
+.th-bg .submit-btn.th-bg,
+/*Timan  Start*/
+/*.mfp-bg,*/
+.btn.th-bg:hover,
+.team-thumb figure::before,
+.th-bg .video-btn::before,
+.th-bg .video-btn::after,
+.th-bg .video-btn:hover::after,
+.osr-srvices-thumb-2:hover,
+.portfolio-thumb .popup-icon:hover,
+.active-pricing-table .btn,
+.team-detail-thumb .social-list li a.th-bg:hover,
+.widget_social .social-list li a:hover,
+.map-office-widget.th-bg .btn:hover,
+.map-office-widget-slider li.slick-active button,
+.widget_categories ul li:hover::before, .widget_nav_menu ul li a:hover::before,
+.th-bg2{
+  background: #634eca !important;
+}
+/*Timan Start*/
+.btn.th-bg:hover,
+.form-control:focus,
+.osr-srvices-thumb-2:hover,
+.widget_social .social-list li a:hover,
+.active-pricing-table .pricing-table,
+.team-detail-thumb .social-list li a.th-bg:hover,
+.map-office-widget.th-bg .btn:hover,
+.btn.th-bg2{
+  border-color: #634eca !important;
+}
+
+.btn.th-bg,
+.btn.th-bg2{
+  color: #fff;
+}
+
+.osr-srvices-thumb-2:hover{
+  box-shadow: 0 16px 32px 0 rgba(45, 45, 107, 0.3);
+}
+.form-control:focus {
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(46, 49, 146, 0.3);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(46, 49, 146, 0.3);
+
+}

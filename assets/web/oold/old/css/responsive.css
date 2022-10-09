@@ -1,0 +1,926 @@
+
+/*
+=================================================
+				UP FROM 1200PX
+=================================================
+*/ 
+@media (min-width: 1367px) and (max-width: 1680px) {
+	.info-section h6 {
+	    font-size: 24px;
+	}
+	.call2action{
+		padding-left:80px; 
+		padding-right:80px; 
+	}
+	.row.d-flex.no-gutters .text-caption .title {
+	    font-size: 60px;
+	    line-height: 80px;
+	}
+}
+/*
+=================================================
+				UP FROM 1200PX
+=================================================
+*/ 
+@media (min-width: 1200px) and (max-width: 1366px) {
+	.explor-us-section-2 .explore-text,
+	.about-caption .text {
+	    padding: 131px 100px 138px;
+	}
+	/*Timan Start*/
+	.info-box{
+		padding: 36px 25px 32px;
+	}
+	.info-box .icon-block{
+		margin-right:30px; 
+	}
+	.info-box h6{
+		font-size: 22px;
+	}
+	.call2action{
+		padding-left:100px; 
+		padding-right:100px; 
+	}
+	.call2action .action-text{
+		width: 70%;
+	}
+	.row.d-flex.no-gutters .text-caption {
+	    padding: 42px 30px 35px;
+	}
+	.row.d-flex.no-gutters .text-caption .title {
+	    font-size: 46px;
+	    line-height: 60px;
+	}
+}
+/*
+=================================================
+			FROM 992PX TO 1199PX
+=================================================
+*/ 
+@media (min-width: 992px) and (max-width: 1199px) {
+	.intro-caption{
+		padding: 0;
+	}
+	.intro-caption .text p:last-of-type{
+		overflow: hidden;
+		max-height: 101px;
+	}
+	.osr-project-thumb-1 .overflow-text {
+	    padding: 45px 30px;
+	}
+	.project-slider:hover .slick-prev {
+	    left: -10px;
+	}
+	.project-slider:hover .slick-next {
+	    right: -10px;
+	}
+	.intro-section-2 .intro-caption{
+		padding: 0;
+	}
+	.intro-section-2 .intro-caption .text p:last-of-type {
+	    overflow: hidden;
+	    max-height: 30px;
+	}
+	.osr-footer-1 .widget-title .title {
+	    font-size: 18px;
+	}
+	.intro-section-3 .intro-caption {
+	    padding:0;
+	}
+	.intro-caption .section-heading-2 .title {
+	    font-size: 24px;
+	}
+	.col-md-8 .blog-list-thumb .title {
+		font-size: 18px;
+	}
+	.blog-list-thumb .blog-meta{
+		width: 100%;
+	}
+	.col-md-8 .blog-list-thumb figure{
+		max-width: 238px;
+	}
+	.col-md-8  .blog-list-thumb .text p {
+	    float: left;
+	    width: 100%;
+	    max-height: 125px;
+	    overflow: hidden;
+	}
+	/*Timan Start*/
+	.info-section .info-box {
+	    padding: 26px 20px 22px;
+	}
+	.info-section .info-box .icon-block{
+		width: 30px;
+		height: 30px;
+		font-size: 28px;
+		margin-right: 20px;
+		line-height: normal;
+	} 
+	.info-section .info-box h6{
+		font-size: 18px;
+	}
+	.info-section .info-box p{
+		font-size: 12px;
+	}
+	.team-thumb .text{
+		padding-left:20px; 
+		padding-right:20px; 
+	}
+	.call2action{
+		padding-left:50px; 
+		padding-right:50px; 
+	}
+	.action-text.col-md-6{
+		width: 60%;
+	}
+	.call2action .title{
+		font-size: 45px;
+		line-height: 55px;
+	}
+	.osr-srvices-thumb-2{
+		padding: 30px 15px 22px
+	}
+	.osr-srvices-thumb-2 .absolute.svg-icon{
+		width: 70px;
+		height: 70px;
+		font-size: 70px;
+		line-height: 70px;
+	}
+	.osr-srvices-thumb-2 .title{
+		font-size: 17px;
+	}
+	.row.d-flex.no-gutters .text-caption .sub-title {
+		margin: 0 0 16px;
+	}
+	.row.d-flex.no-gutters .text-caption .title {
+	    font-size: 30px;
+	    margin: 0 0 22px;
+	    line-height: normal;
+	}
+	.row.d-flex.no-gutters .text-caption{
+		padding:27px 30px 20px;
+	}
+	.row.d-flex.no-gutters .text-caption p {
+		max-height: 164px;
+		overflow: hidden;
+		clear: both;
+	}
+	.blog-thumb .title {
+	    font-size: 21px;
+	    line-height: normal;
+	}
+	.counter-list li {
+		padding: 46px 25px;
+	}
+	.widget-newsletter p{
+		font-size: 13px;
+	}
+	.widget-newsletter .btn{
+		min-width: inherit;
+	}
+	.timan-sub-banner {
+	    padding: 155px 0 157px;
+	}
+	.text-caption .sub-title + .title{
+		font-size: 48px;
+	}
+	.widget-recent-blog .title{
+		font-size: 14px;
+	}
+	.team-detail-caption{
+		padding: 0;
+	}
+	.team-detail-caption .btn{
+		min-width: inherit;
+		padding:19px 20px 18px; 
+	}
+	.team-detail-caption p:last-of-type{
+		max-height: 41px;
+		overflow: hidden;
+	}
+	.services-tab-nav li a{
+		width: 130px;
+		font-size: 12px;
+		font-weight: 500;
+	}
+	.services-blok .text-caption .title {
+	    font-size: 50px;
+	    margin: 0 0 17px;
+	}
+
+}
+/*
+=================================================
+			FROM 0PX TO 979PX
+=================================================
+*/ 
+@media (max-width: 991px) {
+	.blog-list-thumb .text p {
+	    max-height: 105px;
+	    overflow: hidden;
+	}
+	.banner-title{
+		font-size: 56px;
+	}
+	.intro-section-2 .intro-caption,
+	.intro-caption{
+		padding: 0;
+	}
+	.osr-project-thumb-1 figure {
+	    width: 300px
+	}
+	.project-slider:hover .slick-prev {
+	    left: -10px;
+	}
+	.project-slider:hover .slick-next {
+	    right: -10px;
+	}
+	.osr-project-thumb-1 .overflow-text{
+		padding: 25px 30px;
+	}
+	.osr-project-thumb-1 p{
+		max-height: 99px;
+		overflow: hidden;
+		float: left;
+		width: 100%;
+	}
+	.osr-footer-1 .widget-about p {
+	    margin: 0 0 24px;
+	}
+	p.copyright-p{
+		margin: 0!important;
+	}
+	.intro-section-3 .intro-caption {
+	    padding: 23px 0 28px;
+	}
+	.intro-caption .section-heading-2 .title {
+	    font-size: 24px;
+	}
+	.testimonial-slider.row{
+		padding: 0;
+	}
+	aside .sidebar-wrap,
+	.blog-detail-thumb{
+		padding: 0;
+	}
+	aside.border-left{
+		border: none;
+	}
+	.widget-recent-blog .overflow-text {
+		padding: 11px 0 5px;
+	}
+	.blog-nav{
+		margin-bottom:30px; 
+	}
+	/*Timan Start*/
+	.timan-sub-banner {
+	    padding: 95px 0 90px;
+	}
+	.timan-sub-banner .title{
+		font-size: 100px;
+	}
+	.oscar-section-heading-2 .title:first-child::before{
+		font-size: 140px;
+	}
+	.main-slider-banner .banner-slide {
+	    padding: 100px 0;
+	}
+	.slider-banner-caption .title{
+		font-size: 100px;
+	}
+	.info-section .info-box {
+	    padding: 26px 20px 22px;
+	}
+	.info-section .info-box .icon-block{
+		width: 35px;
+		height: 35px;
+		font-size: 28px;
+		margin-right: 20px;
+		line-height: normal;
+	} 
+	.info-section .info-box h6{
+		font-size: 18px;
+	}
+	.info-section .info-box p{
+		font-size: 12px;
+	}
+	.call2action{
+		padding-left:0; 
+		padding-right:0; 
+	}
+	.row.d-flex {
+	    display: -webkit-box !important;
+	    display: -ms-flexbox !important;
+	    display: block !important;
+	    clear: both;
+	}
+	.row.d-flex.no-gutters .text-caption .sub-title {
+		margin: 0 0 16px;
+	}
+	.row.d-flex.no-gutters .text-caption .title {
+	    font-size: 40px;
+	    margin: 0 0 22px;
+	    line-height: normal;
+	}
+	.row.d-flex.no-gutters .text-caption{
+		padding:27px 30px 27px;
+	}
+	.row.d-flex.no-gutters .text-caption p {
+		max-height: 164px;
+		overflow: hidden;
+		clear: both;
+	}
+	.pricing-table{
+		padding-left:20px; 
+		padding-right:20px; 
+	}
+	.counter-list li{
+		text-align: center;
+	}
+	.text-sm-center .osr-counter-thumb-2,
+	.counter-list li .osr-counter-thumb-2 {
+	    float: none;
+	    width: auto;
+	    display: inline-block;
+	    vertical-align: ;
+	}
+	.text-sm-center{
+		text-align: center;
+	}
+	.team-detail-thumb{
+		width: auto;
+		float: none;
+		display: inline-block;
+		vertical-align: bottom;
+	}
+	.services-tab-nav li{
+		margin:5px; 
+	}
+	.about-services .caption-thumb img{
+		width: 100%;
+	}
+
+}
+
+/*
+=================================================
+			FROM 768PX TO 979PX
+=================================================
+*/
+
+@media (min-width: 768px) and (max-width: 979px) {
+	
+  
+}
+/*
+=================================================
+			FROM 0PX TO 767PX
+=================================================
+*/
+@media (max-width: 767px) {
+	.timan-footer .widget_nav_menu .widget-des span:last-child {
+		margin-bottom: 0;
+	}
+	.timan-footer .widget:last-child {
+		margin-bottom: 10px;
+	}
+	.blog-list-thumb .title {
+	    font-size: 15px;
+	}
+	.blog-list-thumb figure {
+	    max-width: 160px;
+	}
+	.blog-list-thumb .text{
+		padding: 0 0 0 25px;
+	}
+	.blog-list-thumb .text p {
+	    max-height: 49px;
+	    overflow: hidden;
+	    font-size: 14px;
+	}
+	.banner-title {
+	    font-size: 36px;
+	}
+	.intro-caption{
+		margin: 0 0 30px;
+	}
+	.osr-project-thumb-1 figure{
+		width: 100%;
+	}
+	.osr-project-thumb-1 figure img{
+		float: none;
+		width: auto;
+		max-width: 100%;
+		margin: 0 auto;
+	}
+	.osr-project-thumb-1 .overflow-text{
+		float: left;
+		width: 100%;
+	}
+	.brand-slider:hover .slick-prev {
+	    left: -0px;
+	}
+	.brand-slider:hover .slick-next {
+	    right: -0px;
+	}
+	.masonry li{
+		width: 100%;
+	}
+	.copy-right .social-list li,
+	.copy-right .short-nav li{
+		margin-left:7px; 
+	}
+	.copy-right .social-list li:first-child,
+	.copy-right .short-nav li:first-child{
+		margin-left:0px; 
+	}
+	.intro-section-3 .intro-caption {
+	    padding-bottom: 0px;
+	}
+	.scroll-btn{
+		bottom: 30px;
+	}
+	.testimonial-slider .slick-slide {
+	    padding: 0px;
+	}
+	.contact-section{
+		padding: 24px 30px 30px;
+	}
+
+	.contact-section .btn{
+		float: none;
+	}
+	.port-filter li{
+		margin: 0 10px;
+	}
+	/*Timan Start*/
+	.timan-filter{
+		margin-bottom:35px; 
+	}
+	.timan-filter li{
+		margin-bottom:15px;
+		display: inline-block;
+		vertical-align: bottom; 
+	}
+	.timan-filter li a {
+	    padding: 0 0 14px;
+	}
+	.widget-recent-blog .overflow-text {
+	    padding: 0;
+	}
+	.timan-sub-banner {
+	    padding: 96px 0 74px;
+	}
+	.timan-sub-banner .sub-title{
+		font-size: 24px;
+		margin-bottom:12px; 
+	}
+	.timan-sub-banner .title{
+		font-size: 62px;
+		line-height: normal;
+	}
+	.text-caption .sub-title + .title {
+	    font-size: 40px;
+	    line-height: normal;
+	}
+	.slider-banner-caption .sub-title{
+		font-size:25px;
+	}
+	.slider-banner-caption .title {
+	    font-size: 70px;
+	}
+	.slider-banner-caption .btn{
+		min-width: inherit;
+	}
+	.oscar-section-heading-2 .title:first-child {
+	    font-size: 40px;
+	}
+	.oscar-section-heading-2 .title:first-child::before {
+	    font-size: 90px;
+	}
+	.action-text{
+		float: left;
+		width: 100%;
+	}
+	.call2action .title {
+	    font-size: 40px;
+	    line-height: 60px;
+	}
+	.counter-list li{
+		border-width:2px !important;
+		margin-bottom:-2px;  
+	}
+	.team-detail-caption {
+		padding:0; 
+	}
+	.team-detail-caption .btn{
+		padding-left:20px; 
+		padding-right:20px; 
+		min-width: inherit;
+	}
+	.blog-detail-thumb .title {
+	    font-size: 28px;
+	}
+	.share-post [class*="col-"]{
+		width: 50%;
+		float: left;
+	}
+	.share-post .tags a{
+		font-size: 12px;
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.share-post .title{
+		font-size: 18px;
+	}
+	.map-wrap{
+		min-height: 450px;
+	}
+	.error-caption h2{
+		font-size: 180px;
+	}
+	.error-caption h4{
+		font-size: 46px;
+	}
+	.map-office-widget {
+	    padding: 24px 30px 30px 30px;
+	}
+	.map-office-widget-slider.slick-dotted.slick-slider{
+	    margin: 0 0 40px;
+	}
+	.map-office-widget-slider .slick-dots{
+	    bottom: -40px;
+	}
+	.map-office-contact li{
+		font-size: 20px;
+		margin: 0 0 13px;
+	}
+}
+@media (min-width: 651px) and (max-width: 767px) {
+	
+		.info-section.no-gutters > [class*="col"]{
+			width: 50%;
+			float: left;
+		}
+		.info-section.no-gutters > [class*="col"]:last-child{
+			display: none;
+		}
+	
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (min-width: 732px) and (max-width: 738px) {
+	
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (max-width: 480px) {
+	.blog-list-thumb figure {
+	    max-width: 100%;
+	}
+	.blog-list-thumb .text{
+		float: left;
+		width: 100%;
+		padding: 25px 0 0;
+	}
+	.blog-list-thumb .text p {
+	    max-height: inherit;
+	    overflow: hidden;
+	}
+	.banner-title {
+	    font-size: 24px;
+	    margin: 0 0 25px;
+	}
+	.banner-caption .btn {    
+		padding: 15px 40px 13px;
+	}
+	.banner-meta li{
+		letter-spacing: inherit;
+	}
+	.banner-meta li::before {
+	    padding: 0 10px 0 7px;
+	}
+	footer, .section, section {
+	    padding: 55px 0 30px;
+	}
+	.section-heading-2 .title,
+	.oscar-section-heading-1 .title {
+	    font-size: 23px;
+	}
+	.osr-project-thumb-1 .title{
+		font-size: 18px;
+	}
+	.copy-right .social-list,
+	.copy-right .short-nav {
+		float: left;
+		width: 100%;
+		text-align: center;
+	}
+	.copy-right [class*="pull-"]{
+		width: 100%;
+	}
+	.copy-right .social-list li,
+	.copy-right .short-nav li{
+		float: none;
+		display: inline-block; 
+	}
+	.widget_rss ul li a, .widget_meta ul li a, .widget_pages ul li a, .widget_archive ul li a, .widget_nav_menu ul li a, .widget_categories ul li a, .widget_recent_comments ul li a, .widget_recent_entries ul li a,
+	body p{
+		font-size: 14px;
+	}
+	.nav-outer{
+		padding:30px 0 0; 
+	}
+	.testimonial-slider.row{
+		margin: 0 0 30px;
+	}
+	.osr-testimonial-thumb .designation{
+		float: none;
+		display: block;
+	}
+	.port-filter li a{
+		margin-bottom:8px; 
+	}
+	.widget-recent-blog .overflow-text {
+		padding: 0;
+	}
+	.blog-nav .pager li > a{
+		padding-left:25px; 
+		padding-right:25px; 
+	}
+	/*Timan Start*/
+	.error-caption h2 {
+		font-size: 140px;
+		margin-bottom:13px; 
+	}
+	.error-caption h4{
+		font-size: 30px;
+		margin-bottom:36px; 
+	}
+	.eroor-page-subscribe .btn{
+		min-width: inherit;
+		padding-left:20px; 
+		padding-right:20px; 
+	}
+	.share-post [class*="col-"]{
+		width: 100%;
+		text-align: left;
+	}
+	.share-post .text-right{
+		text-align: left;
+	}
+	.share-post .social-list{
+		padding: 0;
+		width: 100%
+	}
+	.team-detail-caption .title {
+	    font-size: 35px;
+	}
+	.team-detail-thumb .social-list li a {
+	    width: 40px;
+	    height: 40px;
+	    line-height: 40px;
+	}
+	.widget-recent-blog .title{
+		font-size: 14px;
+	}
+	aside .widget{
+		padding: 26px 20px 10px;
+	}
+	aside .widget .tags a{
+		padding: 13px 10px 11px;
+	}
+	.timan-sub-banner {
+	    padding: 48px 0 37px;
+	}
+	.timan-sub-banner .sub-title {
+	    font-size: 17px;
+		margin-bottom:15px; 
+	}
+	.text-caption .sub-title + .title {
+	    font-size: 26px;
+	}
+	.timan-sub-banner .title {
+	    font-size: 30px;
+	}
+	.testimonial-thumb {
+	    padding: 14px 20px 20px;
+	}
+	.testimonial-thumb .title{
+		font-size: 18px;
+	}
+	.blog-thumb .title {
+	    font-size: 20px;
+	}
+	.oscar-section-heading-2 .title:first-child::before {
+	    font-size: 58px;
+	}
+	.oscar-section-heading-2 .title:first-child {
+	    font-size: 32px;
+	}
+	.row.d-flex.no-gutters .text-caption {
+	    padding: 27px 15px 27px;
+	}
+	.row.d-flex.no-gutters .text-caption .title {
+	    font-size: 23px;
+	}
+	.osr-srvices-thumb-2{
+		padding-left: 25px; 
+		padding-right: 25px; 
+	}
+	.call2action{
+		padding-top:70px; 
+		padding-bottom:70px; 
+	}
+	.call2action::before{
+		opacity: .8;
+	}
+	.call2action .action-number {
+		font-size: 20px;
+	}
+	.team-thumb .text{
+		padding-left:20px; 
+		padding-right:20px; 
+	}
+	.team-thumb .title{
+		font-size: 20px;
+	}
+	.top-bar [class*="pull-"]{
+		width: 100%;
+		text-align: center;
+	}
+	.top-bar ul{
+		float: none;
+		width: auto;
+		vertical-align: bottom;
+		display: inline-block;
+	}
+	.short-nav li {
+	    margin: 0 0 5px 0;
+	    float: none;
+	}
+	.oscar-header-2 .logo {
+        width: 75%;
+	}
+	.oscar-header-2 .logo a img {
+	    height: auto;
+	}
+	.top-bar .social-list{
+		margin-bottom:5px; 
+	}
+	.timan-filter li a{
+		font-size: 14px;
+	}
+	.team-detail-caption .btn{
+		float: left;	
+	}
+	.blog-detail-thumb .title {
+	    font-size: 23px;
+	    line-height: normal;
+	}
+	.services-tab-nav li a{
+		border:none;
+		width: inherit;
+		height: inherit;
+		padding: 0;
+		background: transparent;
+	}
+	.services-blok{
+		float: left;
+		width: 100%;
+	}
+	.appoint-form-head .title{
+		font-size: 18px;
+	}
+	.appoint-form form, .appoint-form-head{
+		padding-left:25px; 
+		padding-right:25px; 
+	}
+}
+	@media only screen and (orientation: portrait) {
+		.call2action .title {
+		    font-size: 28px;
+		    line-height: normal;
+		}
+		.slider-banner-caption .title {
+		    font-size: 46px;
+		}
+		.slider-banner-caption .sub-title {
+		    font-size: 18px;
+		}
+		.slider-banner-caption .btn{
+			min-width: inherit;
+			padding: 12px 13px 11px;
+		}
+		.slider-banner-caption .btn:first-of-type {
+		    margin-right: 15px;
+		}
+		
+	}
+@media (max-width: 991px) {
+    .slider-banner-caption .sub-title {
+        font-size: 17px!important;
+        margin: 0px 0 15px!important;
+    }
+    .slider-banner-caption .title {
+        font-size: 20px!important;
+        margin: 0 0 6px!important;
+    }
+    .slider-banner-caption .btn {
+        padding: 9px 15px 9px!important;
+        font-size: 14px!important;
+    }
+    .main-slider-banner .banner-slide {
+        padding: 100px 0!important;
+    }
+    .slick-arrow::before,
+    .slick-arrow::after {
+        font-size: 14px!important;
+        line-height: 12px!important;
+    }
+    .slick-arrow {
+        width: 30px!important;
+        height: 30px!important;
+    }
+    .slider-banner-caption {
+        padding-left: 25px!important;
+    } 
+}
+@media (max-width: 767px) {
+    .slider-banner-caption .sub-title {
+        font-size: 14px!important;
+        margin: 0px 0 10px!important;
+    }
+    .slider-banner-caption .title {
+        font-size: 17px!important;
+        margin: 0 0 6px!important;
+    }
+    .slider-banner-caption .btn {
+        padding: 7px 12px 7px!important;
+        font-size: 12px!important;
+    }
+    .main-slider-banner .banner-slide {
+        padding: 75px 0!important;
+    }
+    .slick-arrow::before,
+    .slick-arrow::after {
+        font-size: 12px!important;
+        line-height: 10px!important;
+    }
+    .slick-arrow {
+        width: 25px!important;
+        height: 25px!important;
+    }
+    .slider-banner-caption {
+        padding-left: 20px!important;
+    } 
+}
+@media (max-width: 575px) {
+    .slider-banner-caption .sub-title {
+        font-size: 10px!important;
+        margin: 0px 0 6px!important;
+    }
+    .slider-banner-caption .title {
+        font-size: 13px!important;
+        margin: 0 0 6px!important;
+    }
+    .slider-banner-caption .btn {
+        padding: 5px 8px 5px!important;
+        font-size: 10px!important;
+    }
+    .main-slider-banner .banner-slide {
+        padding: 50px 0!important;
+    }
+    .slick-arrow::before,
+    .slick-arrow::after {
+        font-size: 10px!important;
+        line-height: 8px!important;
+    }
+    .slick-arrow {
+        width: 20px!important;
+        height: 20px!important;
+    }
+    .slider-banner-caption {
+        padding-left: 15px!important;
+    } 
+}
+@media (max-width: 472px) {
+	.team-detail-caption .btn{
+		margin: 0;
+		clear: both;
+	}
+	.team-detail-caption .btn + .btn{
+		margin-top:10px; 
+	}
+}
+
+
+
+
+
